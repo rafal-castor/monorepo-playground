@@ -1,3 +1,10 @@
+### Installation
+
+- install [PnpM](https://pnpm.io/)
+- run `pnpm install` from root
+- run `pnpm dev` from root to start web app, native app and sdk package dev servers. Alternative is to run commands from apps/packages dirs. EG run `pnpm dev/build` in packages/sdk and then `pnpm dev` in one of apps.
+- having React Native app up and running locally is a journey everyone has to figure out by himself. Go to Expo or React Native docs. Your aim is to have working local Android/iOS emulator. 
+
 ### What's inside and short reasoning behind selections
 
 - [Turborepo](https://turbo.build/repo) is picked as the build system for monorepo approach. Lerna which we use for Matter monorepo was considered dead for quite some time, only recently got picked up by some company.
