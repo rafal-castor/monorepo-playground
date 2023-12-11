@@ -39,10 +39,13 @@
 ### Showcase
 
 Simple function
+
 https://github.com/rafal-castor/monorepo-playground/assets/84379740/f43ab28a-fc29-480e-98d7-13138b2c58ae
 
 Theme colors
+
 https://github.com/rafal-castor/monorepo-playground/assets/84379740/4d2e58c0-52c3-4dd5-8deb-4b3c20cd8974
 
 Form validation
+
 https://github.com/rafal-castor/monorepo-playground/assets/84379740/7bf621d6-a8ec-4cee-9209-e5daa4864729
