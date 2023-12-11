@@ -35,3 +35,14 @@
 - types
 - firestore queries - that would be a big one IMO, but unfortunately may not be possible. React Native can use Firebase JS SDK, but also officially recommended [React Native Firebase](https://rnfirebase.io/) . `React Native Firebase is a light-weight javascript layer connecting you to the native Firebase SDKs for both iOS and Android which aimes to mirror the offical Firebase Web SDK as closely as possible.
  Although the official Firebase JS SDK will work with React Native; it is mainly built for the web and has a limited feature-set compared to native.` To be precise, [here](https://firebase.google.com/docs/web/environments-js-sdk#other_environments) is described why can't be used from Firebase ecosystem when using JS SDK in React Native, Firestore persistence being a big one. So to sum up, if we would have to use two different libs for Firebase, then there is a small chance of sharing queries code.
+
+### Showcase
+
+Simple function
+https://github.com/rafal-castor/monorepo-playground/assets/84379740/f43ab28a-fc29-480e-98d7-13138b2c58ae
+
+Theme colors
+https://github.com/rafal-castor/monorepo-playground/assets/84379740/4d2e58c0-52c3-4dd5-8deb-4b3c20cd8974
+
+Form validation
+https://github.com/rafal-castor/monorepo-playground/assets/84379740/7bf621d6-a8ec-4cee-9209-e5daa4864729
